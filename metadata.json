@@ -1,0 +1,6 @@
+{
+  "name": "IKF Finance",
+  "description": "Professional loan and finance application platform for businesses and individuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
